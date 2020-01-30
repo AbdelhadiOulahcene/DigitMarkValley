@@ -1,2 +1,2 @@
 # DigitMarkValley
- The front side of DigitMarkValley event.
+ The website of DigitMarkValley event.
